@@ -1,0 +1,28 @@
+{
+  "name": "project24",
+  "version": "1.0.0",
+  "description": "project24 description, intentionally blank...",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guspra/project24.git"
+  },
+  "keywords": [
+    "project24",
+    "keywords",
+    "intentionally",
+    "blank..."
+  ],
+  "author": "Guspra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guspra/project24/issues"
+  },
+  "homepage": "https://github.com/guspra/project24#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
